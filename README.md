@@ -18,3 +18,7 @@
 
 阅读更多：侯国玉（https://zh.moegirl.org.cn/%E4%BE%AF%E5%9B%BD%E7%8E%89 ）
 本文引自萌娘百科(https://zh.moegirl.org.cn )，文字内容默认使用《知识共享 署名-非商业性使用-相同方式共享 3.0 中国大陆》协议。
+
+#使用方法
+Code-Download ZIP
+然后解压到UTAU的\voice\
